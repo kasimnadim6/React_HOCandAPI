@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  flex-direction: column;
+  color: #000;
+}
+
+h1 {
+  display: inline;
+  text-align: center;
+  font-size: large;
+  border: 2px solid black;
+  padding: 1rem;
+  border-radius: 6px;
+  box-shadow: 2px 1px 6px rgba(0, 0, 0, 0.3);
+}
